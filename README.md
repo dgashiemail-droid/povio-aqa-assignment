@@ -54,7 +54,8 @@ Before running the project, make sure you have:
 # Setup Instructions
 
 ### 1. Clone the project
-git clone <>
+git clone <https://github.com/dgashiemail-droid/povio-aqa-assignment
+>
 cd povio-aqa-assignment
 
 ### 2. Open the project in IntelliJ
