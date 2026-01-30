@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Povio AQA Assignment – Test Automation Project
 
 This project contains end-to-end automated tests for the Povio demo application using Selenium WebDriver, Java, and TestNG.
@@ -105,3 +106,7 @@ Test results are shown in:
 # Author
 
 Candidate: Drilona Gashi
+
+# povio-aqa-assignment
+QA automation assignment – Selenium, Java, Maven
+
